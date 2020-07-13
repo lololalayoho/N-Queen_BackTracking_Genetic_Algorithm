@@ -31,4 +31,4 @@
 
 |전체 시간 복잡도 비교|1차원 Backtracking|2차원 Backtracking|Genetic Algorithm|
 |-------------------|-------------------|-------------------|-------------------|
-|<img src = "/image/비교.jpg" width="350" height="200">|<img src = "/image/1.jpg" width="350" height="200">|<img src = "/image/2.jpg" width="350" height="200">|<img src = "/image/g.jpg" width="350" height="200">|
+|<img src = "/image/비교.jpg" width="200" height="200">|<img src = "/image/1.jpg" width="200" height="200">|<img src = "/image/2.jpg" width="200" height="200">|<img src = "/image/g.jpg" width="200" height="200">|
